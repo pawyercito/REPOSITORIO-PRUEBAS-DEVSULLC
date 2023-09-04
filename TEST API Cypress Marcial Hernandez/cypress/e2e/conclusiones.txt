@@ -1,0 +1,16 @@
+Conclusiones:
+
+Se realizaron pruebas de servicios REST en la PetStore API utilizando Cypress.
+
+Las pruebas incluyeron la creación de un usuario, la búsqueda del usuario creado, la actualización de su nombre y correo, la búsqueda del usuario actualizado y la eliminación del usuario.
+
+Se verificó que las solicitudes y respuestas HTTP se completaran con éxito y que los pasos de las pruebas se ejecutaran correctamente.
+
+Cypress proporciona una forma efectiva de automatizar pruebas de servicios REST, permitiendo verificar el comportamiento de las API en diferentes escenarios.
+
+Las pruebas permiten garantizar que las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en la API funcionen correctamente y devuelvan los resultados esperados.
+
+Es importante ajustar los valores de entrada, como nombres de usuario, contraseñas y correos electrónicos, según sea necesario para adaptarse a los casos de prueba específicos.
+
+
+

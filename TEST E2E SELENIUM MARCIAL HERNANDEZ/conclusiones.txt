@@ -1,0 +1,5 @@
+Hallazgos y Conclusiones:
+1. La prueba se ejecutó sin errores.
+2. Los productos se agregaron correctamente al carrito.
+3. El formulario de compra se completó exitosamente.
+4. Se mostró el mensaje de confirmación 'Thank you for your order!' al finalizar la compra.
